@@ -1,0 +1,20 @@
+[general]
+name=CartoMinMex en QGIS
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+version=1.0.0
+author=Eduardo Lemus
+email=eduardo.lemusm@fi.unam.edu
+description=Consulta y descarga la información actualizada de CartoMinMex (SE/DGM) directamente en QGIS.
+about=CartoMinMex_QGIS carga la capa oficial de concesiones mineras (SE/DGM) y permite comprobar cortes/actualizaciones publicados.
+category=Web
+icon=icon.png
+license=GPL-3.0-or-later
+homepage=https://github.com/eduardolemus-geo/CartoMinMex_QGIS
+repository=https://github.com/eduardolemus-geo/CartoMinMex_QGIS
+tracker=https://github.com/eduardolemus-geo/CartoMinMex_QGIS/issues
+tags=mining, cartominmex, mexico, qgis
+
+changelog=1.0.0 – Primera versión
+        - Panel “Cargar CartoMinMex” y “Comprobar/Actualizar”
+        - Registro/actualización de conexión SE/DGM
